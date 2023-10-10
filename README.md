@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Delight
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Springboot
+- 🌱 Also interested in Springboot
 - 💞️ I’m looking to collaborate on different project
 - 📫 How to reach me: delighty83@gmail.com
